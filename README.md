@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcel NGUYEN</h1>
-<h3 align="center">A passionate & enthusiast Flutter Developer, Frebch & English Speaker</h3>
+<h3 align="center">A passionate & enthusiast Flutter Developer, French & English Speaker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelalng&label=Profile%20views&color=0e75b6&style=flat" alt="marcelalng" /> </p>
 
